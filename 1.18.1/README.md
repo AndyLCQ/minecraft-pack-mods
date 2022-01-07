@@ -48,3 +48,7 @@ Cette librairie est requise pour les mods suivants :
 - Tweakeroo - 0.8.0 and later
 
 https://www.curseforge.com/minecraft/mc-mods/malilib
+
+## Tweakeroo 
+
+https://www.curseforge.com/minecraft/mc-mods/tweakeroo
